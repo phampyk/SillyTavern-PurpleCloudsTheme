@@ -1,5 +1,5 @@
 # SillyTavern-PurpleCloudsTheme
-A purple theme inspired by soft pastel purples, and probably my love for sailor moon.
+A SillyTavern theme inspired by soft pastel purples, and probably my love for sailor moon.
 
 ![Main page](/.github/img/screenshot-main.png)
 
