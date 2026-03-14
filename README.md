@@ -10,6 +10,9 @@ First of all you need the extension [Custom theme style inputs](https://github.c
 
 Once you have the extension downloaded, in the **"User Settings"** tab import the theme from the folder `theme` called `Purple Clouds.json`. The theme is fully installed now!
 
+### Moonlit Echoes version
+To install the theme in Moonlit Echoes you have to add two files instead of one. In the **User Settings** tab import the theme from the folder `theme` called `Purple clouds - Moonlit Echoes - Theme.json` and in the **Extensions** tab import the Moonlit Echoes preset `Purple clouds - Moonlit Echoes - Preset.json` into the extension's settings. Now the theme is fully installed.
+
 ![Settings page](/src/screenshot-settings.png)
 
 In the screenshot you can see the extra three colors, and you can change the placement of the QR buttons, and having the default fonts if you're not keen into the cutesy ones I added. The CSS has some annotations too, in case you want to change something like the banner or remove the rainbow avatar frame, which by the way, adapts to all avatar styles!
